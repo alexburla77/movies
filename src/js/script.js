@@ -45,3 +45,5 @@ const a = prompt('Один из последних просмотренных ф
       personalMovieDB.movies[c] = d;
 
 console.log(personalMovieDB);
+
+const logo = 77;
